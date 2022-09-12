@@ -8,7 +8,7 @@ email:
 description: applied algebraic topology
 domain: ldarrick.github.io
 url: https://ldarrick.github.io
-baseurl: ldarrick.github.io
+# baseurl: /ldarrick.github.io
 keywords: ["math", "topology"]
 
 #
