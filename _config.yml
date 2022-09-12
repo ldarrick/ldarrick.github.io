@@ -6,7 +6,9 @@
 title: darrick lee
 email:
 description: applied algebraic topology
-url: www.darricklee.com
+domain: ldarrick.github.io
+url: https://ldarrick.github.io
+baseurl: ldarrick.github.io
 keywords: ["math", "topology"]
 
 #
