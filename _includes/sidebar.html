@@ -1,0 +1,48 @@
+{% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
+
+<!-- {% assign author = site.owner %} -->
+
+<div class="cover-card table-cell table-middle">
+  {% if author.avatar %}
+  <a href="{{ site.url }}/">
+    <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
+  </a>
+  {% endif %}
+  <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
+  <span class="author_job">{{ author.job }}</span>
+  <span class="author_bio">{{ author.bio1 }}</span>
+  <span class="author_bio mbm">{{ author.bio2 }}</span>
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item">
+        <A href="{{ site.url }}#about">about</a>
+      </li>
+      <li class="nav-item">
+        <A href="{{ site.url }}#research">research</a>
+      </li>
+      <li class="nav-item">
+        <A href="{{ site.url }}#publications">publications</a>
+      </li>
+      <li class="nav-item">
+        <A href="{{ site.url }}#teaching">teaching</a>
+      </li>
+      <li class="nav-item">
+        <A href="{{ site.url }}/cv/CV.pdf">cv</a>
+      </li>
+
+<!--       {% for page in site.pages %} {% if page.title %}
+      <li class="nav-item">
+        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
+      </li>
+      {% endif %} {% endfor %} -->
+    </ul>
+  </nav>
+
+  <br>
+  <span class="contact"><b>Contact</b></span>
+  <span class="contact"><b>Office:</b> S3.20</span>
+  <span class="contact"><b>Email:</b> darrick.lee at maths.ox.ac.uk</span>
+
+  {% include social-links.html %}
+  
+</div>
