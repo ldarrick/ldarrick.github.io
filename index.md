@@ -78,7 +78,7 @@ For general multivariate time series, we compute the signed area for every pair 
 ### Publications and Preprints {#publications}
 
 0. [Capturing graphs with hypoelliptic diffusions](https://arxiv.org/abs/2205.14092), C. Toth, <b>D. Lee</b>, C. Hacker, and H. Oberhauser    
-(preprint) (2022)
+(accepted in NeurIPS) (2022)
 0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
 (preprint) (2022)
 0. [Signatures, Lipschitz-free spaces, and paths of persistence diagrams](https://arxiv.org/abs/2108.02727), C. Giusti and <b>D. Lee</b>    
