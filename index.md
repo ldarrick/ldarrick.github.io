@@ -77,6 +77,8 @@ For general multivariate time series, we compute the signed area for every pair 
 
 ### Publications and Preprints {#publications}
 
+0. [Convex hulls of curves: volumes and signatures](https://arxiv.org/abs/2301.09405), C. Améndola, <b>D. Lee</b>, and C. Meroni    
+(preprint) (2023)
 0. [Capturing graphs with hypoelliptic diffusions](https://arxiv.org/abs/2205.14092), C. Toth, <b>D. Lee</b>, C. Hacker, and H. Oberhauser    
 (accepted in NeurIPS) (2022)
 0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
