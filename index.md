@@ -79,9 +79,9 @@ For general multivariate time series, we compute the signed area for every pair 
 
 0. [Signatures, Lipschitz-free spaces, and paths of persistence diagrams](https://arxiv.org/abs/2108.02727), C. Giusti and <b>D. Lee</b>    
 accepted for publication in SIAM Journal on Applied Algebra and Geometry (SIAGA) (2023+)
-0. [Signature methods for brain-computer interfaces](https://assets.researchsquare.com/files/rs-2476159/v1/575d0a2286a3278150a115b4.pdf?c=1674177474), X. Xu, <b>D. Lee</b>, N. Drougard, and R. N. Roy.    
+0. [Signature methods for brain-computer interfaces](https://assets.researchsquare.com/files/rs-2476159/v1/575d0a2286a3278150a115b4.pdf?c=1674177474), X. Xu, <b>D. Lee</b>, N. Drougard, and R. N. Roy    
 accepted for publication in Scientific Reports (2023+)
-0. [Convex hulls of curves: volumes and signatures](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_45), C. Améndola, <b>D. Lee</b>, and C. Meroni.    
+0. [Convex hulls of curves: volumes and signatures](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_45), C. Améndola, <b>D. Lee</b>, and C. Meroni    
 In: Nielsen, F., Barbaresco, F. (eds) Geometric Science of Information. GSI 2023. Lecture Notes in Computer Science, vol 14071. Springer, Cham. (2023) [[arXiv]](https://arxiv.org/abs/2301.09405)
 0. [Capturing graphs with hypoelliptic diffusions](https://openreview.net/pdf?id=KtDdr1zUE_1), C. Toth, <b>D. Lee</b>, C. Hacker, and H. Oberhauser    
 Advances in Neural Information Processing Systems (NeurIPS) (2022) [[arXiv]](https://arxiv.org/abs/2205.14092)
@@ -95,7 +95,7 @@ Journal of Spectral Theory. 6: 557-600 (2016) [[arXiv]](https://arxiv.org/abs/14
 
 
 ### Preprints
-0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser.    
+0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser    
 (preprint of book chapter) (2023)
 0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
 (preprint) (2022)
