@@ -46,7 +46,7 @@ My CV is [here]({{site.url}}/cv/CV.pdf).
 
 ### Research {#research}
 
-I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study parametrized data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. 
+I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study functional data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. 
 
 
 <!------------------------------------------------------------------------------------------------>
@@ -75,27 +75,33 @@ For general multivariate time series, we compute the signed area for every pair 
 
 <!------------------------------------------------------------------------------------------------>
 
-### Publications and Preprints {#publications}
+### Publications {#publications}
 
-0. [Convex hulls of curves: volumes and signatures](https://arxiv.org/abs/2301.09405), C. Améndola, <b>D. Lee</b>, and C. Meroni    
-(preprint) (2023)
-0. [Capturing graphs with hypoelliptic diffusions](https://arxiv.org/abs/2205.14092), C. Toth, <b>D. Lee</b>, C. Hacker, and H. Oberhauser    
-(accepted in NeurIPS) (2022)
-0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
-(preprint) (2022)
 0. [Signatures, Lipschitz-free spaces, and paths of persistence diagrams](https://arxiv.org/abs/2108.02727), C. Giusti and <b>D. Lee</b>    
-(preprint) (2021)
-0. [Path signatures on Lie groups](https://arxiv.org/abs/2007.06633), <b>D. Lee</b> and R. Ghrist   
-(preprint) (2020)
+accepted for publication in SIAM Journal on Applied Algebra and Geometry (SIAGA) (2023+)
+0. [Signature methods for brain-computer interfaces](https://assets.researchsquare.com/files/rs-2476159/v1/575d0a2286a3278150a115b4.pdf?c=1674177474), X. Xu, <b>D. Lee</b>, N. Drougard, and R. N. Roy.    
+accepted for publication in Scientific Reports (2023+)
+0. [Convex hulls of curves: volumes and signatures](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_45), C. Améndola, <b>D. Lee</b>, and C. Meroni.    
+In: Nielsen, F., Barbaresco, F. (eds) Geometric Science of Information. GSI 2023. Lecture Notes in Computer Science, vol 14071. Springer, Cham. (2023) [[arXiv]](https://arxiv.org/abs/2301.09405)
+0. [Capturing graphs with hypoelliptic diffusions](https://openreview.net/pdf?id=KtDdr1zUE_1), C. Toth, <b>D. Lee</b>, C. Hacker, and H. Oberhauser    
+Advances in Neural Information Processing Systems (NeurIPS) (2022) [[arXiv]](https://arxiv.org/abs/2205.14092)
 0. [Iterated integrals and population time series analysis](https://link.springer.com/chapter/10.1007/978-3-030-43408-3_9), C. Giusti and <b>D. Lee</b>  
 In Nils A. Baas, Gunnar E. Carlsson, Gereon Quick, Markus Szymik, and Marius Thaule, editors, Topological Data Analysis, Abel Symposia, pages 219–246 (2020) [[arXiv]](https://arxiv.org/abs/1811.03558)
-0. [A methodology for morphological feature extraction and unsupervised cell classification.](https://www.biorxiv.org/content/10.1101/623793v1)  D. Bhaskar, <b>D. Lee</b>, H. Knútsdóttir, C. Tan, M. Zhang, P. Dean, C. Roskelley, and L. Edelstein- Keshet  
-(preprint) (2019)
 0. [Structure of vortex-bound states in spin singlet chiral superconductors](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.064522), <b>D. Lee</b> and A. Schnyder  
 Physical Review B. 93: 064522 (2016) [[arXiv]](https://arxiv.org/abs/1508.05331)
 0. [Localization for transversally periodic random potentials on binary trees](https://www.ems-ph.org/journals/show_abstract.php?issn=1664-039X&vol=6&iss=3&rank=4), R. Froese, <b>D. Lee</b>, C. Sadel, W. Spitzer, and G. Stolz  
 Journal of Spectral Theory. 6: 557-600 (2016) [[arXiv]](https://arxiv.org/abs/1408.3961)
 {: reversed="reversed"}
+
+
+### Preprints
+0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser.
+0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
+(preprint) (2022)
+0. [Path signatures on Lie groups](https://arxiv.org/abs/2007.06633), <b>D. Lee</b> and R. Ghrist   
+(preprint) (2020)
+0. [A methodology for morphological feature extraction and unsupervised cell classification.](https://www.biorxiv.org/content/10.1101/623793v1)  D. Bhaskar, <b>D. Lee</b>, H. Knútsdóttir, C. Tan, M. Zhang, P. Dean, C. Roskelley, and L. Edelstein- Keshet  
+(preprint) (2019)
 
 
 <!------------------------------------------------------------------------------------------------>
