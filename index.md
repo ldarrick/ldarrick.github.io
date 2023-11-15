@@ -95,6 +95,8 @@ Journal of Spectral Theory. 6: 557-600 (2016) [[arXiv]](https://arxiv.org/abs/14
 
 
 ### Preprints
+0. [Random surfaces and higher algebra](https://arxiv.org/abs/2311.08366), <b>D. Lee</b> and H. Oberhauser    
+(preprint) (2023)
 0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser    
 (preprint of book chapter) (2023)
 0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
