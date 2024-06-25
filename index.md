@@ -77,8 +77,10 @@ For general multivariate time series, we compute the signed area for every pair 
 
 ### Publications {#publications}
 
-0. [Signatures, Lipschitz-free spaces, and paths of persistence diagrams](https://arxiv.org/abs/2108.02727), C. Giusti and <b>D. Lee</b>    
-accepted for publication in SIAM Journal on Applied Algebra and Geometry (SIAGA) (2023+)
+0. [Stein variational ergodic search](https://arxiv.org/abs/2406.11767), <b>D. Lee</b>, C. Lerch, F. Ramos, I. Abraham
+accepted at Robotics: Science and Systems. (2024)
+0. [Signatures, Lipschitz-free spaces, and paths of persistence diagrams](https://epubs.siam.org/doi/10.1137/22M1528471), C. Giusti and <b>D. Lee</b>    
+SIAM Journal on Applied Algebra and Geometry. (2023) [[arXiv]](https://arxiv.org/abs/2108.02727)
 0. [Signature methods for brain-computer interfaces](https://assets.researchsquare.com/files/rs-2476159/v1/575d0a2286a3278150a115b4.pdf?c=1674177474), X. Xu, <b>D. Lee</b>, N. Drougard, and R. N. Roy    
 accepted for publication in Scientific Reports (2023+)
 0. [Convex hulls of curves: volumes and signatures](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_45), C. Améndola, <b>D. Lee</b>, and C. Meroni    
@@ -95,6 +97,7 @@ Journal of Spectral Theory. 6: 557-600 (2016) [[arXiv]](https://arxiv.org/abs/14
 
 
 ### Preprints
+0. [The surface signature and rough surfaces](https://arxiv.org/abs/2406.16857), <b>D. Lee</b>    
 0. [Random surfaces and higher algebra](https://arxiv.org/abs/2311.08366), <b>D. Lee</b> and H. Oberhauser    
 (preprint) (2023)
 0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser    
