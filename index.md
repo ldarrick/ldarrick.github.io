@@ -37,6 +37,8 @@ permalink: /
 
 I am currently a postdoc in the Mathematical Institute at the University of Oxford as part of the [CIMDA-Oxford collaboration](https://cimda-oxford.datasig.ac.uk/) with [Harald Oberhauser](https://people.maths.ox.ac.uk/oberhauser/). Previously, I was a postdoc in the [Laboratory for Topology and Neuroscience](https://www.epfl.ch/labs/hessbellwald-lab/) at EPFL with [Kathryn Hess](https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald/). I received my PhD in [Applied Mathematics and Computational Sciences (AMCS)](https://www.amcs.upenn.edu/) in 2021 at the University of Pennsylvania working under [Rob Ghrist](https://www.math.upenn.edu/~ghrist/). Before that, I received my Bachelor of Applied Sciences at the University of British Columbia in 2016, where I majored in [Engineering Physics](http://www.engphys.ubc.ca/) with an Electrical Engineering specialization and minored in Mathematics. 
 
+I will be joining the Department of Mathematics at the University of Edinburgh as a Chancellor's Fellow in September 2024. 
+
 I received a [Fulbright Canada student award](https://www.fulbright.ca/programs/canadian-students/traditional-awards.html) for 2016-2017 and a [NSERC PGS-D scholarship](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_eng.asp) for 2018-2021.
 
 My CV is [here]({{site.url}}/cv/CV.pdf).
