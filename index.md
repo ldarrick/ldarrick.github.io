@@ -76,6 +76,21 @@ For general multivariate time series, we compute the signed area for every pair 
 
 
 <!------------------------------------------------------------------------------------------------>
+### Preprints
+0. [The surface signature and rough surfaces](https://arxiv.org/abs/2406.16857), <b>D. Lee</b>    
+(preprint) (2024)    
+0. [Random surfaces and higher algebra](https://arxiv.org/abs/2311.08366), <b>D. Lee</b> and H. Oberhauser    
+(preprint) (2023)
+0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser    
+(preprint of book chapter) (2023)
+0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
+(preprint) (2022)
+0. [Path signatures on Lie groups](https://arxiv.org/abs/2007.06633), <b>D. Lee</b> and R. Ghrist   
+(preprint) (2020)
+0. [A methodology for morphological feature extraction and unsupervised cell classification.](https://www.biorxiv.org/content/10.1101/623793v1)  D. Bhaskar, <b>D. Lee</b>, H. Knútsdóttir, C. Tan, M. Zhang, P. Dean, C. Roskelley, and L. Edelstein- Keshet  
+(preprint) (2019)
+
+
 
 ### Publications {#publications}
 
@@ -97,20 +112,6 @@ Physical Review B. 93: 064522 (2016) [[arXiv]](https://arxiv.org/abs/1508.05331)
 Journal of Spectral Theory. 6: 557-600 (2016) [[arXiv]](https://arxiv.org/abs/1408.3961)
 {: reversed="reversed"}
 
-
-### Preprints
-0. [The surface signature and rough surfaces](https://arxiv.org/abs/2406.16857), <b>D. Lee</b>    
-(preprint) (2024)    
-0. [Random surfaces and higher algebra](https://arxiv.org/abs/2311.08366), <b>D. Lee</b> and H. Oberhauser    
-(preprint) (2023)
-0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser    
-(preprint of book chapter) (2023)
-0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
-(preprint) (2022)
-0. [Path signatures on Lie groups](https://arxiv.org/abs/2007.06633), <b>D. Lee</b> and R. Ghrist   
-(preprint) (2020)
-0. [A methodology for morphological feature extraction and unsupervised cell classification.](https://www.biorxiv.org/content/10.1101/623793v1)  D. Bhaskar, <b>D. Lee</b>, H. Knútsdóttir, C. Tan, M. Zhang, P. Dean, C. Roskelley, and L. Edelstein- Keshet  
-(preprint) (2019)
 
 
 <!------------------------------------------------------------------------------------------------>
