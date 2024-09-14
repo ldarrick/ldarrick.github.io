@@ -80,8 +80,6 @@ For general multivariate time series, we compute the signed area for every pair 
 (preprint) (2023)
 0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser    
 (preprint of book chapter) (2023)
-0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
-(preprint) (2022)
 0. [Path signatures on Lie groups](https://arxiv.org/abs/2007.06633), <b>D. Lee</b> and R. Ghrist   
 (preprint) (2020)
 0. [A methodology for morphological feature extraction and unsupervised cell classification.](https://www.biorxiv.org/content/10.1101/623793v1)  D. Bhaskar, <b>D. Lee</b>, H. Knútsdóttir, C. Tan, M. Zhang, P. Dean, C. Roskelley, and L. Edelstein- Keshet  
@@ -91,8 +89,10 @@ For general multivariate time series, we compute the signed area for every pair 
 
 ### Publications {#publications}
 
+0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
+Advances in Applied Mathematics (to appear). (2024)
 0. [Stein variational ergodic search](https://arxiv.org/abs/2406.11767), <b>D. Lee</b>, C. Lerch, F. Ramos, I. Abraham    
-accepted at Robotics: Science and Systems (2024)
+Robotics: Science and Systems (2024)
 0. [Signatures, Lipschitz-free spaces, and paths of persistence diagrams](https://epubs.siam.org/doi/10.1137/22M1528471), C. Giusti and <b>D. Lee</b>    
 SIAM Journal on Applied Algebra and Geometry. (2023) [[arXiv]](https://arxiv.org/abs/2108.02727)
 0. [Signature methods for brain-computer interfaces](https://www.nature.com/articles/s41598-023-41326-8), X. Xu, <b>D. Lee</b>, N. Drougard, and R. N. Roy    
