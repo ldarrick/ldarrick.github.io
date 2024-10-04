@@ -47,6 +47,8 @@ My CV is [here]({{site.url}}/cv/CV.pdf).
 
 I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study functional data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. 
 
+For 2024-2025, Sjoerd Beentjes, Emily Roff and I are organizing the [Applied Geometry, Topology and Algebra in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/).  
+
 
 <!------------------------------------------------------------------------------------------------>
 
@@ -89,8 +91,8 @@ For general multivariate time series, we compute the signed area for every pair 
 
 ### Publications {#publications}
 
-0. [A topological approach to mapping space signatures](https://arxiv.org/abs/2202.00491), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
-Advances in Applied Mathematics (to appear). (2024)
+0. [A topological approach to mapping space signatures](https://www.sciencedirect.com/science/article/pii/S0196885824001192), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
+Advances in Applied Mathematics. (2025) [[arXiv]](https://arxiv.org/abs/2202.00491)
 0. [Stein variational ergodic search](https://arxiv.org/abs/2406.11767), <b>D. Lee</b>, C. Lerch, F. Ramos, I. Abraham    
 Robotics: Science and Systems (2024)
 0. [Signatures, Lipschitz-free spaces, and paths of persistence diagrams](https://epubs.siam.org/doi/10.1137/22M1528471), C. Giusti and <b>D. Lee</b>    
