@@ -47,7 +47,7 @@ My CV is [here]({{site.url}}/cv/CV.pdf).
 
 I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study functional data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. 
 
-For 2024-2025, Sjoerd Beentjes, Emily Roff and I are organizing the [Applied Geometry, Topology and Algebra in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/).  
+For 2024-2025, Sjoerd Beentjes, Emily Roff and I are organizing the [Applied Geometry, Algebra, and Topology in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/).  
 
 
 <!------------------------------------------------------------------------------------------------>
