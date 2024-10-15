@@ -76,6 +76,7 @@ For general multivariate time series, we compute the signed area for every pair 
 
 <!------------------------------------------------------------------------------------------------>
 ### Preprints
+0. [Ergodic trajectory optimization on generalized domains using maximum mean discrepancy](https://arxiv.org/abs/2410.10599), C. Hughes, H. Warren, <b>D. Lee</b>, F. Ramos, I. Abraham (preprint) (2024)    
 0. [The surface signature and rough surfaces](https://arxiv.org/abs/2406.16857), <b>D. Lee</b>    
 (preprint) (2024)    
 0. [Random surfaces and higher algebra](https://arxiv.org/abs/2311.08366), <b>D. Lee</b> and H. Oberhauser    
