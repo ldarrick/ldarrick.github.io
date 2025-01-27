@@ -92,7 +92,7 @@ For general multivariate time series, we compute the signed area for every pair 
 
 
 ### Publications {#publications}
-0. [Towards scalable topological regularizers](https://arxiv.org/abs/2501.14641), H.-T. Wong, <b>D. Lee</b>, H. Yan    
+0. [Towards scalable topological regularizers](https://arxiv.org/abs/2501.14641), H.-T. Wong$^*$, <b>D. Lee</b>$^*$, H. Yan    
 accepted to International Conference on Learning Representations (ICLR) (2025)
 0. [Generalized time series classification via component decomposition and alignment](Generalized Time Series Classification via Component Decomposition and Alignment), Y. Cheng, <b>D. Lee</b>, H. Oberhauser, H. Li     
 IEEE Transactions on Big Data. (2025)
@@ -106,7 +106,7 @@ SIAM Journal on Applied Algebra and Geometry. (2023) [[arXiv]](https://arxiv.org
 Scientific Reports. (2023)
 0. [Convex hulls of curves: volumes and signatures](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_45), C. Améndola, <b>D. Lee</b>, and C. Meroni    
 In: Nielsen, F., Barbaresco, F. (eds) Geometric Science of Information. GSI 2023. Lecture Notes in Computer Science, vol 14071. Springer, Cham. (2023) [[arXiv]](https://arxiv.org/abs/2301.09405)
-0. [Capturing graphs with hypoelliptic diffusions](https://openreview.net/pdf?id=KtDdr1zUE_1), C. Toth*, <b>D. Lee</b>*, C. Hacker, and H. Oberhauser    
+0. [Capturing graphs with hypoelliptic diffusions](https://openreview.net/pdf?id=KtDdr1zUE_1), C. Toth$^*$, <b>D. Lee</b>$^*$, C. Hacker, and H. Oberhauser    
 Advances in Neural Information Processing Systems (NeurIPS) (2022) [[arXiv]](https://arxiv.org/abs/2205.14092)
 0. [Iterated integrals and population time series analysis](https://link.springer.com/chapter/10.1007/978-3-030-43408-3_9), C. Giusti and <b>D. Lee</b>  
 In Nils A. Baas, Gunnar E. Carlsson, Gereon Quick, Markus Szymik, and Marius Thaule, editors, Topological Data Analysis, Abel Symposia, pages 219–246 (2020) [[arXiv]](https://arxiv.org/abs/1811.03558)
