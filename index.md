@@ -95,7 +95,7 @@ For general multivariate time series, we compute the signed area for every pair 
 \* equal contribution    
 0. [Towards scalable topological regularizers](https://arxiv.org/abs/2501.14641), H.-T. Wong\*, <b>D. Lee</b>\*, H. Yan    
 accepted to International Conference on Learning Representations (ICLR) (2025)
-0. [Generalized time series classification via component decomposition and alignment](Generalized Time Series Classification via Component Decomposition and Alignment), Y. Cheng, <b>D. Lee</b>, H. Oberhauser, H. Li     
+0. [Generalized time series classification via component decomposition and alignment](https://ieeexplore.ieee.org/abstract/document/10833669), Y. Cheng, <b>D. Lee</b>, H. Oberhauser, H. Li     
 IEEE Transactions on Big Data. (2025)
 0. [A topological approach to mapping space signatures](https://www.sciencedirect.com/science/article/pii/S0196885824001192), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
 Advances in Applied Mathematics. (2025) [[arXiv]](https://arxiv.org/abs/2202.00491)
