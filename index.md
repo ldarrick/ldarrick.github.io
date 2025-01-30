@@ -89,10 +89,10 @@ For general multivariate time series, we compute the signed area for every pair 
 
 
 
-### Publications {#publications}
+### Journal / Conference Publications {#publications}
 \* equal contribution    
 0. [Ergodic trajectory optimization on generalized domains using maximum mean discrepancy](https://arxiv.org/abs/2410.10599), C. Hughes, H. Warren, <b>D. Lee</b>, F. Ramos, I. Abraham    
-accepted to IEEE International Conference on Robotics and AUtomation (ICRA) (2025)        
+accepted to IEEE International Conference on Robotics and Automation (ICRA) (2025)        
 0. [Towards scalable topological regularizers](https://arxiv.org/abs/2501.14641), H.-T. Wong\*, <b>D. Lee</b>\*, H. Yan    
 accepted to International Conference on Learning Representations (ICLR) (2025)
 0. [Generalized time series classification via component decomposition and alignment](https://ieeexplore.ieee.org/abstract/document/10833669), Y. Cheng, <b>D. Lee</b>, H. Oberhauser, H. Li     
