@@ -76,8 +76,6 @@ For general multivariate time series, we compute the signed area for every pair 
 
 <!------------------------------------------------------------------------------------------------>
 ### Preprints
-0. [Ergodic trajectory optimization on generalized domains using maximum mean discrepancy](https://arxiv.org/abs/2410.10599), C. Hughes, H. Warren, <b>D. Lee</b>, F. Ramos, I. Abraham    
-(preprint) (2024)    
 0. [The surface signature and rough surfaces](https://arxiv.org/abs/2406.16857), <b>D. Lee</b>    
 (preprint) (2024)    
 0. [Random surfaces and higher algebra](https://arxiv.org/abs/2311.08366), <b>D. Lee</b> and H. Oberhauser    
@@ -93,6 +91,8 @@ For general multivariate time series, we compute the signed area for every pair 
 
 ### Publications {#publications}
 \* equal contribution    
+0. [Ergodic trajectory optimization on generalized domains using maximum mean discrepancy](https://arxiv.org/abs/2410.10599), C. Hughes, H. Warren, <b>D. Lee</b>, F. Ramos, I. Abraham    
+accepted to IEEE International Conference on Robotics and AUtomation (ICRA) (2025)        
 0. [Towards scalable topological regularizers](https://arxiv.org/abs/2501.14641), H.-T. Wong\*, <b>D. Lee</b>\*, H. Yan    
 accepted to International Conference on Learning Representations (ICLR) (2025)
 0. [Generalized time series classification via component decomposition and alignment](https://ieeexplore.ieee.org/abstract/document/10833669), Y. Cheng, <b>D. Lee</b>, H. Oberhauser, H. Li     
