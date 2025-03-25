@@ -49,6 +49,8 @@ I am interested in developing mathematics at the interface of topology, geometry
 
 For 2024-2025, Djordje Mihajlovic, Siddharth Setlur, Sjoerd Beentjes, Emily Roff and I are organizing the [Applied Geometry, Algebra, and Topology in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/).  
 
+With Gonçalo dos Reis and Yue Wu, I am co-organizing the ICMS Workshop [Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning ](https://www.icms.org.uk/SGAtoML) from May 19-23, 2025. Public applications are open until April 4, 2025!
+
 
 <!------------------------------------------------------------------------------------------------>
 
@@ -76,6 +78,8 @@ For general multivariate time series, we compute the signed area for every pair 
 
 <!------------------------------------------------------------------------------------------------>
 ### Preprints
+0. [Communities in the Kuramoto model: dynamics and detection via path signatures](https://arxiv.org/abs/2503.17546), T. J. Nguyên, <b>D. Lee</b>, B. J. Stolz    
+(preprint) (2025)    
 0. [The surface signature and rough surfaces](https://arxiv.org/abs/2406.16857), <b>D. Lee</b>    
 (preprint) (2024)    
 0. [Random surfaces and higher algebra](https://arxiv.org/abs/2311.08366), <b>D. Lee</b> and H. Oberhauser    
