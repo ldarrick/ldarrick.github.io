@@ -51,7 +51,7 @@ For 2024-2025, Djordje Mihajlovic, Siddharth Setlur, Sjoerd Beentjes, Emily Roff
 
 With Gonçalo dos Reis and Yue Wu, I co-organized the ICMS Workshop [Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning ](https://www.icms.org.uk/SGAtoML) from May 19-23, 2025.  
 
-Currently during Summer 2025, I am co-organizing a learning seminar on [Hodge Theory for Cellular and Network Sheaves](https://ybkartal.github.io/sheaflaplacianseminar.html) with [Yusuf Bariş Kartal](https://ybkartal.github.io/sheaflaplacianseminar.html).
+Currently during Summer 2025, I am co-organizing a learning seminar on [Hodge Theory for Cellular and Network Sheaves](https://ybkartal.github.io/sheaflaplacianseminar.html) with [Yusuf Bariş Kartal](https://ybkartal.github.io/).
 
 
 <!------------------------------------------------------------------------------------------------>
