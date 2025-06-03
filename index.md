@@ -49,7 +49,9 @@ I am interested in developing mathematics at the interface of topology, geometry
 
 For 2024-2025, Djordje Mihajlovic, Siddharth Setlur, Sjoerd Beentjes, Emily Roff and I are organizing the [Applied Geometry, Algebra, and Topology in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/).  
 
-With Gonçalo dos Reis and Yue Wu, I am co-organizing the ICMS Workshop [Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning ](https://www.icms.org.uk/SGAtoML) from May 19-23, 2025. Public applications are open until April 4, 2025!
+With Gonçalo dos Reis and Yue Wu, I co-organized the ICMS Workshop [Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning ](https://www.icms.org.uk/SGAtoML) from May 19-23, 2025.  
+
+Currently during Summer 2025, I am co-organizing a learning seminar on [Hodge Theory for Cellular and Network Sheaves](https://ybkartal.github.io/sheaflaplacianseminar.html) with [Yusuf Bariş Kartal](https://ybkartal.github.io/sheaflaplacianseminar.html).
 
 
 <!------------------------------------------------------------------------------------------------>
