@@ -80,6 +80,7 @@ For general multivariate time series, we compute the signed area for every pair 
 
 <!------------------------------------------------------------------------------------------------>
 ### Preprints
+0. [Thin homotopy and the signature of piecewise linear surfaces](https://arxiv.org/abs/2506.16657), F. Bischoff, <b>D. Lee</b>    
 0. [Path-dependent SDEs: solutions and parameter estimation](https://arxiv.org/abs/2505.22646), P. Semnani, V. Guan, E. Robeva, <b>D. Lee</b>    
 (preprint) (2025)    
 0. [Communities in the Kuramoto model: dynamics and detection via path signatures](https://arxiv.org/abs/2503.17546), T. J. Nguyên, <b>D. Lee</b>, B. J. Stolz    
