@@ -47,11 +47,13 @@ My CV is [here]({{site.url}}/cv/CV.pdf).
 
 I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study functional data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. 
 
-For 2024-2025, Djordje Mihajlovic, Siddharth Setlur, Sjoerd Beentjes, Emily Roff and I are organizing the [Applied Geometry, Algebra, and Topology in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/).  
+I am co-organizing the [Applied Geometry, Algebra, and Topology in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/) with Djordje Mihajlovic and Siddharth Setlur.
 
-With Gonçalo dos Reis and Yue Wu, I co-organized the ICMS Workshop [Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning ](https://www.icms.org.uk/SGAtoML) from May 19-23, 2025.  
+I am co-organizing the [North British Probability Seminar](https://blogs.ed.ac.uk/nbps/) with Theo Assiotis.
 
-Currently during Summer 2025, I am co-organizing a learning seminar on [Hodge Theory for Cellular and Network Sheaves](https://ybkartal.github.io/sheaflaplacianseminar.html) with [Yusuf Bariş Kartal](https://ybkartal.github.io/).
+<b> Past Events: </b>
+- With Gonçalo dos Reis and Yue Wu, I co-organized the ICMS Workshop [Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning ](https://www.icms.org.uk/SGAtoML) from May 19-23, 2025.  
+-During Summer 2025, I co-organized a learning seminar on [Hodge Theory for Cellular and Network Sheaves](https://ybkartal.github.io/sheaflaplacianseminar.html) with [Yusuf Bariş Kartal](https://ybkartal.github.io/).
 
 
 <!------------------------------------------------------------------------------------------------>
@@ -80,18 +82,16 @@ For general multivariate time series, we compute the signed area for every pair 
 
 <!------------------------------------------------------------------------------------------------>
 ### Preprints
+0. [Orthogonal polynomials on path-space](https://arxiv.org/abs/2602.18808), I. Chevyrev, E. Ferruci, <b>D. Lee</b>, T. Lyons, H. Oberhauser, N. Tapia    
+(preprint) (2026)    
 0. [Thin homotopy and the signature of piecewise linear surfaces](https://arxiv.org/abs/2506.16657), F. Bischoff, <b>D. Lee</b>    
-(preprint) (2025)
-0. [Path-dependent SDEs: solutions and parameter estimation](https://arxiv.org/abs/2505.22646), P. Semnani, V. Guan, E. Robeva, <b>D. Lee</b>    
 (preprint) (2025)    
-0. [Communities in the Kuramoto model: dynamics and detection via path signatures](https://arxiv.org/abs/2503.17546), T. J. Nguyên, <b>D. Lee</b>, B. J. Stolz    
+0. [Path-dependent SDEs: solutions and parameter estimation](https://arxiv.org/abs/2505.22646), P. Semnani, V. Guan, E. Robeva, <b>D. Lee</b>    
 (preprint) (2025)    
 0. [The surface signature and rough surfaces](https://arxiv.org/abs/2406.16857), <b>D. Lee</b>    
 (preprint) (2024)    
 0. [Random surfaces and higher algebra](https://arxiv.org/abs/2311.08366), <b>D. Lee</b> and H. Oberhauser    
 (preprint) (2023)
-0. [The signature kernel](https://arxiv.org/abs/2305.04625), <b>D. Lee</b> and H. Oberhauser    
-(preprint of book chapter) (2023)
 0. [Path signatures on Lie groups](https://arxiv.org/abs/2007.06633), <b>D. Lee</b> and R. Ghrist   
 (preprint) (2020)
 0. [A methodology for morphological feature extraction and unsupervised cell classification.](https://www.biorxiv.org/content/10.1101/623793v1)  D. Bhaskar, <b>D. Lee</b>, H. Knútsdóttir, C. Tan, M. Zhang, P. Dean, C. Roskelley, and L. Edelstein- Keshet  
@@ -100,11 +100,13 @@ For general multivariate time series, we compute the signed area for every pair 
 
 
 ### Journal / Conference Publications {#publications}
-\* equal contribution    
-0. [Ergodic trajectory optimization on generalized domains using maximum mean discrepancy](https://arxiv.org/abs/2410.10599), C. Hughes, H. Warren, <b>D. Lee</b>, F. Ramos, I. Abraham    
-accepted to IEEE International Conference on Robotics and Automation (ICRA) (2025)        
-0. [Towards scalable topological regularizers](https://arxiv.org/abs/2501.14641), H.-T. Wong\*, <b>D. Lee</b>\*, H. Yan    
-accepted to International Conference on Learning Representations (ICLR) (2025)
+\* equal contribution
+0. [Communities in the Kuramoto model: dynamics and detection via path signatures](https://iopscience.iop.org/article/10.1088/2632-072X/ae0850), T. J. Nguyên, <b>D. Lee</b>, B. J. Stolz     
+Journal of Physics: Complexity, Focus Issue on Higher Order Brain Networks (2025) [[arXiv]](https://arxiv.org/abs/2503.17546)        
+0. [Ergodic trajectory optimization on generalized domains using maximum mean discrepancy](https://ieeexplore.ieee.org/abstract/document/11127573), C. Hughes, H. Warren, <b>D. Lee</b>, F. Ramos, I. Abraham     
+IEEE International Conference on Robotics and Automation (ICRA) (2025) [[arXiv]](https://arxiv.org/abs/2410.10599)        
+0. [Towards scalable topological regularizers](https://openreview.net/pdf?id=FjZcwQJX8D), H.-T. Wong\*, <b>D. Lee</b>\*, H. Yan    
+International Conference on Learning Representations (ICLR) (2025) [[arXiv]](https://arxiv.org/abs/2501.14641)
 0. [Generalized time series classification via component decomposition and alignment](https://ieeexplore.ieee.org/abstract/document/10833669), Y. Cheng, <b>D. Lee</b>, H. Oberhauser, H. Li     
 IEEE Transactions on Big Data. (2025)
 0. [A topological approach to mapping space signatures](https://www.sciencedirect.com/science/article/pii/S0196885824001192), C. Giusti, <b>D. Lee</b>, V. Nanda, and H. Oberhauser    
@@ -119,8 +121,6 @@ Scientific Reports. (2023)
 In: Nielsen, F., Barbaresco, F. (eds) Geometric Science of Information. GSI 2023. Lecture Notes in Computer Science, vol 14071. Springer, Cham. (2023) [[arXiv]](https://arxiv.org/abs/2301.09405)
 0. [Capturing graphs with hypoelliptic diffusions](https://openreview.net/pdf?id=KtDdr1zUE_1), C. Toth\*, <b>D. Lee</b>\*, C. Hacker, and H. Oberhauser    
 Advances in Neural Information Processing Systems (NeurIPS) (2022) [[arXiv]](https://arxiv.org/abs/2205.14092)
-0. [Iterated integrals and population time series analysis](https://link.springer.com/chapter/10.1007/978-3-030-43408-3_9), C. Giusti and <b>D. Lee</b>  
-In Nils A. Baas, Gunnar E. Carlsson, Gereon Quick, Markus Szymik, and Marius Thaule, editors, Topological Data Analysis, Abel Symposia, pages 219–246 (2020) [[arXiv]](https://arxiv.org/abs/1811.03558)
 0. [Structure of vortex-bound states in spin singlet chiral superconductors](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.064522), <b>D. Lee</b> and A. Schnyder  
 Physical Review B. 93: 064522 (2016) [[arXiv]](https://arxiv.org/abs/1508.05331)
 0. [Localization for transversally periodic random potentials on binary trees](https://www.ems-ph.org/journals/show_abstract.php?issn=1664-039X&vol=6&iss=3&rank=4), R. Froese, <b>D. Lee</b>, C. Sadel, W. Spitzer, and G. Stolz  
@@ -128,10 +128,19 @@ Journal of Spectral Theory. 6: 557-600 (2016) [[arXiv]](https://arxiv.org/abs/14
 {: reversed="reversed"}
 
 
+### Book Chapters
+0. [The signature kernel](https://link.springer.com/chapter/10.1007/978-3-031-97239-3_3), <b>D. Lee</b> and H. Oberhauser     
+In C. Bayer, G. dos Reis, B. Horvath, H. Oberhauser, editors, Signature Methods in Finance, Springer Finance, pages 85-124 (2025) [[arXiv]](https://arxiv.org/abs/2305.04625)      
+0. [Iterated integrals and population time series analysis](https://link.springer.com/chapter/10.1007/978-3-030-43408-3_9), C. Giusti and <b>D. Lee</b>  
+In N. Baas, G. Carlsson, G. Quick, M. Szymik, and M. Thaule, editors, Topological Data Analysis, Abel Symposia, pages 219–246 (2020) [[arXiv]](https://arxiv.org/abs/1811.03558)
+{: reversed="reversed"}
 
 <!------------------------------------------------------------------------------------------------>
 
 ### Teaching {#teaching}
+
+#### EPFL
+* <b>Winter 2026</b> Course Organizer for MATH 10003: Financial Mathematics
 
 #### EPFL
 * <b>Fall 2021</b> TA for MATH 220: Metric and Topological Spaces
