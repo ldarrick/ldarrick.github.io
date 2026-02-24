@@ -52,8 +52,8 @@ I am co-organizing the [Applied Geometry, Algebra, and Topology in Edinburgh (AG
 I am co-organizing the [North British Probability Seminar](https://blogs.ed.ac.uk/nbps/) with Theo Assiotis.
 
 <b> Past Events: </b>
-- With Gonçalo dos Reis and Yue Wu, I co-organized the ICMS Workshop [Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning ](https://www.icms.org.uk/SGAtoML) from May 19-23, 2025.  
--During Summer 2025, I co-organized a learning seminar on [Hodge Theory for Cellular and Network Sheaves](https://ybkartal.github.io/sheaflaplacianseminar.html) with [Yusuf Bariş Kartal](https://ybkartal.github.io/).
+- With Gonçalo dos Reis and Yue Wu, I co-organized the ICMS Workshop [Signatures and Rough Paths: From Stochastics, Geometry and Algebra to Machine Learning ](https://www.icms.org.uk/SGAtoML) from May 19-23, 2025.    
+- During Summer 2025, I co-organized a learning seminar on [Hodge Theory for Cellular and Network Sheaves](https://ybkartal.github.io/sheaflaplacianseminar.html) with [Yusuf Bariş Kartal](https://ybkartal.github.io/).
 
 
 <!------------------------------------------------------------------------------------------------>
@@ -139,7 +139,7 @@ In N. Baas, G. Carlsson, G. Quick, M. Szymik, and M. Thaule, editors, Topologica
 
 ### Teaching {#teaching}
 
-#### EPFL
+#### University of Edinburgh
 * <b>Winter 2026</b> Course Organizer for MATH 10003: Financial Mathematics
 
 #### EPFL
