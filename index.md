@@ -45,7 +45,7 @@ My CV is [here]({{site.url}}/cv/CV.pdf).
 
 ### Research {#research}
 
-I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study functional data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. More recently, I am interested in applications to mechanistic interpretability.
+I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study functional data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. More recently, I've been interested in applications to mechanistic interpretability.
 
 I am co-organizing the [Applied Geometry, Algebra, and Topology in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/) with Djordje Mihajlovic and Siddharth Setlur.
 
