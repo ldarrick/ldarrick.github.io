@@ -45,7 +45,7 @@ My CV is [here]({{site.url}}/cv/CV.pdf).
 
 ### Research {#research}
 
-I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study functional data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. 
+I am interested in developing mathematics at the interface of topology, geometry, and analysis in order to build novel tools to study functional data. Currently, most of my work revolves around applications and generalizations of the path signature from a topological and geometric point of view. More recently, I am interested in applications to mechanistic interpretability.
 
 I am co-organizing the [Applied Geometry, Algebra, and Topology in Edinburgh (AGATE) seminar](https://agatedinburgh.github.io/) with Djordje Mihajlovic and Siddharth Setlur.
 
@@ -97,10 +97,12 @@ For general multivariate time series, we compute the signed area for every pair 
 0. [A methodology for morphological feature extraction and unsupervised cell classification.](https://www.biorxiv.org/content/10.1101/623793v1)  D. Bhaskar, <b>D. Lee</b>, H. Knútsdóttir, C. Tan, M. Zhang, P. Dean, C. Roskelley, and L. Edelstein- Keshet  
 (preprint) (2019)
 
-
+  13. & C. Hughes, Y. Liu, Y. Lahrach, J. Engdahl, H. Warren, \textbf{D. Lee}, F. Ramos, T. Miles, I. Abraham, \href{https://arxiv.org/abs/2605.13442}{\textit{Asymptotically Optimal Ergodic Coverage on Generalized Motion Fields}}, Robotics: Science and Systems, 2026 \\[26pt]
 
 ### Journal / Conference Publications {#publications}
 \* equal contribution
+0. [Asymptotically Optimal Ergodic Coverage on Generalized Motion Fields](https://arxiv.org/abs/2605.13442), C. Hughes, Y. Liu, Y. Lahrach, J. Engdahl, H. Warren, <b>D. Lee</b>, F. Ramos, T. Miles, I. Abraham      
+Robotics: Science and Systems (2026)
 0. [Communities in the Kuramoto model: dynamics and detection via path signatures](https://iopscience.iop.org/article/10.1088/2632-072X/ae0850), T. J. Nguyên, <b>D. Lee</b>, B. J. Stolz     
 Journal of Physics: Complexity, Focus Issue on Higher Order Brain Networks (2025) [[arXiv]](https://arxiv.org/abs/2503.17546)        
 0. [Ergodic trajectory optimization on generalized domains using maximum mean discrepancy](https://ieeexplore.ieee.org/abstract/document/11127573), C. Hughes, H. Warren, <b>D. Lee</b>, F. Ramos, I. Abraham     
