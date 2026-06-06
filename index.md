@@ -97,8 +97,6 @@ For general multivariate time series, we compute the signed area for every pair 
 0. [A methodology for morphological feature extraction and unsupervised cell classification.](https://www.biorxiv.org/content/10.1101/623793v1)  D. Bhaskar, <b>D. Lee</b>, H. Knútsdóttir, C. Tan, M. Zhang, P. Dean, C. Roskelley, and L. Edelstein- Keshet  
 (preprint) (2019)
 
-  13. & C. Hughes, Y. Liu, Y. Lahrach, J. Engdahl, H. Warren, \textbf{D. Lee}, F. Ramos, T. Miles, I. Abraham, \href{https://arxiv.org/abs/2605.13442}{\textit{Asymptotically Optimal Ergodic Coverage on Generalized Motion Fields}}, Robotics: Science and Systems, 2026 \\[26pt]
-
 ### Journal / Conference Publications {#publications}
 \* equal contribution
 0. [Asymptotically Optimal Ergodic Coverage on Generalized Motion Fields](https://arxiv.org/abs/2605.13442), C. Hughes, Y. Liu, Y. Lahrach, J. Engdahl, H. Warren, <b>D. Lee</b>, F. Ramos, T. Miles, I. Abraham      
