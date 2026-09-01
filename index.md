@@ -82,7 +82,9 @@ For general multivariate time series, we compute the signed area for every pair 
 
 <!------------------------------------------------------------------------------------------------>
 ### Preprints
-0. [The geometry of cochains on sampled Vietoris-Rips Complexes](https://arxiv.org/abs/2608.11137), <b>D. Lee</b>, K. Maggs.   
+0. [Interpreting latent protein language model features with geometric annotations](https://arxiv.org/abs/2608.26419), S. Setlur, D. Mihajlovic, <b>D. Lee</b>   
+(preprint) (2026)
+0. [The geometry of cochains on sampled Vietoris-Rips Complexes](https://arxiv.org/abs/2608.11137), <b>D. Lee</b>, K. Maggs   
 (preprint) (2026)    
 0. [Orthogonal polynomials on path-space](https://arxiv.org/abs/2602.18808), I. Chevyrev, E. Ferruci, <b>D. Lee</b>, T. Lyons, H. Oberhauser, N. Tapia    
 (preprint) (2026)    
