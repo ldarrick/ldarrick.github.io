@@ -82,7 +82,7 @@ For general multivariate time series, we compute the signed area for every pair 
 
 <!------------------------------------------------------------------------------------------------>
 ### Preprints
-0. [Interpreting latent protein language model features with geometric annotations](https://arxiv.org/abs/2608.26419), S. Setlur, D. Mihajlovic, <b>D. Lee</b>   
+0. [Interpreting latent protein language model features with geometric annotations](https://arxiv.org/abs/2608.26419), S. Setlur\*, D. Mihajlovic\*, <b>D. Lee</b>   
 (preprint) (2026)
 0. [The geometry of cochains on sampled Vietoris-Rips Complexes](https://arxiv.org/abs/2608.11137), <b>D. Lee</b>, K. Maggs   
 (preprint) (2026)    
